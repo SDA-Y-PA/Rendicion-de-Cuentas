@@ -1,0 +1,1 @@
+var json_FeriaEquina_9 = {"type":"FeatureCollection","name":"FeriaEquina_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-74.90388232758734,4.751499990976426]}}]}

@@ -1,0 +1,1 @@
+var json_FeriaInternacionaldeCaf_8 = {"type":"FeatureCollection","name":"FeriaInternacionaldeCaf_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-75.024234487743826,4.900127480575511]}}]}

@@ -1,0 +1,1 @@
+var json_Varietales_13 = {"type":"FeatureCollection","name":"Varietales_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-75.414213122727404,3.470191345394214]}}]}
